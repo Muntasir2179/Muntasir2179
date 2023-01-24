@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://muntasirahmed.netlify.app/](https://muntasirahmed.netlify.app/)
 
-- 📫 How to reach me **muntasirahmed2179@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muntasir2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasir2179" height="30" width="40" /></a>
