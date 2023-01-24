@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/muntasir2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muntasir2179" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20379725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20379725" height="30" width="40" /></a>
 <a href="https://fb.com/muntasir2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muntasir2179" height="30" width="40" /></a>
-<a href="https://instagram.com/muntasir2179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muntasir2179" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
