@@ -57,7 +57,9 @@ In my early days of programming, I use to solve problems in various online platf
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muntasir2179&show_icons=true&count_private=true)  
 
+<!---
 ![GitHub metrics](https://metrics.lecoq.io/Muntasir2179)  
+-->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Muntasir2179)  
 
