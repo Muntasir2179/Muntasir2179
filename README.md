@@ -23,14 +23,12 @@ These are the programming languages I have learned so far. But mostly, I use Pyt
 These are the few libraries and frameworks that I have used in my various projects.
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Software skills
-I have used several IEDs for writing programs. Mostly, I use VS-code and Google-Colab these days.
+I have used several IEDs for writing programs. Mostly, I use VS-code and Google Colab these days.
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -42,24 +40,13 @@ I have used several IEDs for writing programs. Mostly, I use VS-code and Google-
 ![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### Developer forums
-In my early days of programming, I use to solve problems in various online platforms. As I am focusing on Machine Learning I often use Keggle datasets for my work.
+In my early days of programming, I use to solve problems on various online platforms. As I am focusing on Machine Learning I often use Keggle datasets for my work.
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ### My recent activities
-- 🔭 I’m currently working on developing Bangla Accent Detection system.
+- 🔭 I’m currently working on developing a Bangla Accent Detection system.
 - 🌱 I’m currently learning Generative AI and Graph Neural Networks.
-- 👯 I’m looking to collaborate on any kind of machine learning tasks.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasir2179)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muntasir2179&show_icons=true&count_private=true)  
-
-<!---
-![GitHub metrics](https://metrics.lecoq.io/Muntasir2179)  
--->
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Muntasir2179)  
-
+- 👯 I’m looking to collaborate on machine learning tasks.
