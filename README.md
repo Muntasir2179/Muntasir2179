@@ -19,6 +19,9 @@ These are the few libraries and frameworks that I have used in my various projec
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=Derivative&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-00FFFF?style=for-the-badge&logo=Derivative&logoColor=white)
+![LangChain](https://img.shields.io/badge/Langchain-607341?style=for-the-badge&logo=Derivative&logoColor=black)
 
 ### Operating System
 These are the operating systems that I have worked on. I also have the experience of scheduling programs in Ubuntu using CronJob.
@@ -27,7 +30,7 @@ These are the operating systems that I have worked on. I also have the experienc
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Developer forums
-In my early days of programming, I solved problems on various online platforms. As I focus on Machine Learning I often use Keggle datasets for my work.
+In my early days of programming, I solved problems on various online platforms. Codeforces is the platform I have used the most.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/muntasir2179)
 
