@@ -36,4 +36,4 @@ In my early days of programming, I solved problems on various online platforms. 
 
 
 ### My recent activities
-I am now working with Vector-Database and LangChain.
+I am currently working as a Deep Learning Engineer at CPSD Technologies and harnessing cutting edge techs in AI domain.
